@@ -1,0 +1,145 @@
+body{
+    margin: 0 auto;
+    max-width: 1400px;
+    background-color: #255685;
+}
+h2{
+    background-color: #252685;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+h3{
+    background-color: #30ad6d;
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+}
+h4{
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin: 0px;
+}
+header{
+    top: 0px;
+    background-color: #F7F4E1;
+    width: 1400px;
+    height: 140px;
+    border-radius: 30px;
+    position: fixed;
+    z-index: 1;
+}
+header img{
+    float: left;
+    background-color: #F7F4E1;
+    width: 80px;
+    margin: 20px 30px 20px 30px;
+}
+header h1{
+    float: left;
+    font-size: 90px;
+    background-color: #F7F4E1;
+    margin: 20px;
+}
+header a:link{
+    float: right;
+    margin: 50px 10px 50px 10px;
+    padding: 10px;
+    font-size: 30px;
+    background-color: #30ad6d;
+    color: orange;
+    text-decoration: none;
+    border-radius: 10px;
+}
+header a:visited{
+    float: right;
+    margin: 50px 10px 50px 10px;
+    padding: 10px;
+    font-size: 30px;
+    background-color: #30ad6d;
+    color: purple;
+    text-decoration: none;
+    border-radius: 10px;
+}
+header a:hover{
+    float: right;
+    margin: 50px 10px 50px 10px;
+    font-size: 30px;
+    padding: 10px;
+    background-color: #30ad6d;
+    color: blue;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.kontakt{
+    float: left;
+    background-color: #258584;
+    border-radius: 20px;
+    padding: 10px;
+    width: 30%;
+    height: 500px;
+    margin-bottom: 20px;
+}
+iframe{
+    float: right;
+    width: 65%;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    height: 520px;
+}
+h2{
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 50px;
+}
+input, select{
+    width: 30%;
+    margin-left: 10px;
+}
+.text{
+    float: left;
+    width: 50%;
+    height: 100px;
+}
+article{
+    position: relative;
+    top: 120px;
+}
+.submit{
+    float: left;
+    clear: both;
+    margin: 20px;
+    padding: 10px;
+}
+.reset{
+    float: left;
+    margin: 20px;
+    padding: 10px;
+}
+article img{
+    width: 16px;
+}
+.telefon{
+    float: left;
+    clear: both;
+    margin-top: 40px;
+    padding: 10px;
+}
+label, .mail, .insta, a{
+    float: left;
+    margin-top: 40px;
+    padding: 10px;
+}
+.mail, .telefon, .insta{
+    margin-left: 40px;
+}
+
+footer{
+    color: white;
+    height: 70px;
+    line-height: 70px;
+    clear: both;
+    text-align: center;
+    font-size: 25px;
+}

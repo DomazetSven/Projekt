@@ -1,0 +1,217 @@
+[
+    {
+        "naziv": "ClueGo Escape Room",
+        "adresa": "Ulica kneza Borne 12",
+        "avanture":{
+            "igra1":{
+                "ime": "Memento",
+                "trajanje": 75,
+                "dif": 8,
+                "strah": "Mala"
+            },
+            "igra2":{
+                "ime": "Tajna profesora Balthazara",
+                "trajanje": 75,
+                "dif": 9,
+                "strah": "Mala"
+            },
+            "igra3":{
+                "ime": "Krađa Mona Lise 2",
+                "trajanje": 75,
+                "dif": 10,
+                "strah": "Mala"
+            }
+        }
+    },{
+        "naziv": "The Old Lock Up - Escape Room",
+        "adresa": "Vinkovićeva 6, Maksimirska 96, Vodnikova 8, Draškovićeva 72",
+        "avanture":{
+            "igra1":{
+                "ime": "Otmica",
+                "trajanje": 60,
+                "dif": 6,
+                "strah": "Srednja"
+            },
+            "igra2":{
+                "ime": "Kripta",
+                "trajanje": 60,
+                "dif": 5,
+                "strah": "Srednja"
+            },
+            "igra3":{
+                "ime": "Narcos",
+                "trajanje": 60,
+                "dif": 7,
+                "strah": "Mala"
+            },
+            "igra4":{
+                "ime": "Soba Panike",
+                "trajanje": 60,
+                "dif": 8,
+                "strah": "Srednja"
+            },
+            "igra5":{
+                "ime": "Mrtvačnica",
+                "trajanje": 60,
+                "dif": 6,
+                "strah": "Velika"
+            },
+            "igra6":{
+                "ime": "Ukleti Hotel",
+                "trajanje": 60,
+                "dif": 7,
+                "strah": "Velika"
+            },
+            "igra7":{
+                "ime": "Presuda",
+                "trajanje": 66,
+                "dif": 9,
+                "strah": "Velika"
+            },
+            "igra8":{
+                "ime": "Ritual",
+                "trajanje": 60,
+                "dif": 8,
+                "strah": "Velika"
+            }
+        }
+    },{
+        "naziv": "Escape Art",
+        "adresa": "Draškovićeva 53",
+        "avanture":{
+            "igra1":{
+                "ime": "Magična Knjižnica",
+                "trajanje": 75,
+                "dif": 10,
+                "strah": "Srednja"
+            },
+            "igra2":{
+                "ime": "Drakuline Odaje",
+                "trajanje": 60,
+                "dif": 5,
+                "strah": "Srednja"
+            },
+            "igra3":{
+                "ime": "Robin Hood",
+                "trajanje": 60,
+                "dif": 6,
+                "strah": "Mala"
+            }
+        }
+    },{
+        "naziv": "Fox In A Box",
+        "adresa": "Ulica kneza Mislava 14",
+        "avanture":{
+            "igra1":{
+                "ime": "Zodiac Killer",
+                "trajanje": 60,
+                "dif": 7,
+                "strah": "Srednja"
+            },
+            "igra2":{
+                "ime": "Pljačka Banke",
+                "trajanje": 60,
+                "dif": 7,
+                "strah": "Srednja"
+            },
+            "igra3":{
+                "ime": "Bijeg iz Zatvora",
+                "trajanje": 60,
+                "dif": 6,
+                "strah": "Mala"
+            }
+        }
+    },{
+        "naziv": "Portal Escape",
+        "adresa": "Amruševa 8",
+        "avanture":{
+            "igra1":{
+                "ime": "Ozirisov Hram",
+                "trajanje": 80,
+                "dif": 8,
+                "strah": "Mala"
+            },
+            "igra2":{
+                "ime": "Dvorac Crne Kraljice",
+                "trajanje": 60,
+                "dif": 6,
+                "strah": "Mala"
+            },
+            "igra3":{
+                "ime": "Kocke",
+                "trajanje": 75,
+                "dif": 9,
+                "strah": "Mala"
+            },
+            "igra4":{
+                "ime": "Tajna Don Carla",
+                "trajanje": 75,
+                "dif": 6,
+                "strah": "Mala"
+            }
+        }
+    },{
+        "naziv": "Escape Room Enigmarium",
+        "adresa": "Krvavi Most 3",
+        "avanture":{
+            "igra1":{
+                "ime": "Tajanstveni Slučaj Zagrebačke Vještice",
+                "trajanje": 60,
+                "dif": 7,
+                "strah": "Mala"
+            },
+            "igra2":{
+                "ime": "Femme Fatale",
+                "trajanje": 60,
+                "dif": 7,
+                "strah": "Mala"
+            }
+        }
+    },{
+        "naziv": "Elephant in the Escape Room",
+        "adresa": "Ribnjak ulica 4",
+        "avanture":{
+            "igra1":{
+                "ime": "EX(IT) YU",
+                "trajanje": 70,
+                "dif": 8,
+                "strah": "Mala"
+            }
+        }
+    },{
+        "naziv": "Escape Room Arena",
+        "adresa": "Avenija Dubrovnik 15/33",
+        "avanture":{
+            "igra1":{
+                "ime": "The Amazing Heist",
+                "trajanje": 60,
+                "dif": 9,
+                "strah": "Mala"
+            },
+            "igra2":{
+                "ime": "Mind Crime",
+                "trajanje": 60,
+                "dif": 6,
+                "strah": "Mala"
+            },
+            "igra3":{
+                "ime": "Secret Agent",
+                "trajanje": 60,
+                "dif": 7,
+                "strah": "Mala"
+            },
+            "igra4":{
+                "ime": "The Office of John Monroe",
+                "trajanje": 60,
+                "dif": 7,
+                "strah": "Mala"
+            },
+            "igra5":{
+                "ime": "The Lab of Dr. Lev Pasted",
+                "trajanje": 60,
+                "dif": 8,
+                "strah": "Srednja"
+            }
+        }
+    }
+]

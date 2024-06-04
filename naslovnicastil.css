@@ -1,0 +1,136 @@
+body{
+    margin: 0 auto;
+    max-width: 1400px;
+    background-color: #255685;
+}
+h2{
+    background-color: #252685;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+h3, p{
+    background-color: #258584;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+}
+header{
+    background-color: #F7F4E1;
+    width: 1400px;
+    height: 140px;
+    border-radius: 30px;
+    position: fixed;
+    z-index: 1;
+}
+header img{
+    float: left;
+    background-color: #F7F4E1;
+    width: 80px;
+    margin: 20px 30px 20px 30px;
+}
+header h1{
+    float: left;
+    font-size: 90px;
+    background-color: #F7F4E1;
+    margin: 20px;
+}
+header a:link{
+    float: right;
+    margin: 50px 10px 50px 10px;
+    padding: 10px;
+    font-size: 30px;
+    background-color: #30ad6d;
+    color: orange;
+    text-decoration: none;
+    border-radius: 10px;
+}
+header a:visited{
+    float: right;
+    margin: 50px 10px 50px 10px;
+    padding: 10px;
+    font-size: 30px;
+    background-color: #30ad6d;
+    color: purple;
+    text-decoration: none;
+    border-radius: 10px;
+}
+header a:hover{
+    float: right;
+    margin: 50px 10px 50px 10px;
+    font-size: 30px;
+    padding: 10px;
+    background-color: #30ad6d;
+    color: blue;
+    text-decoration: none;
+    border-radius: 10px;
+}
+
+.sadrzaj{
+    position: relative;
+    top: 120px;
+}
+
+.stojeto{
+    float: left;
+    width: 100%;
+}
+.er{
+    float: left;
+    width: 400px;
+}
+.lokoti{
+    width: 450px;
+    margin-top: 25px;
+    float: right;
+}
+.stojeto h2{
+    font-size: 50px;
+}
+.stojeto h3{
+    float: right;
+    font-size: 24px;
+    width: 68.5%;
+}
+.stojeto p{
+    float: right;
+    width: 35%;
+    font-size: 20px;
+    margin-top: 0px;
+    margin-right: 20px;
+}
+.povijest{
+    float: left;
+    clear: both;
+    width: 100%;
+}
+.scrap{
+    width: 400px;
+}
+.game{
+    margin-top: 30px;
+    width: 400px;
+    float: right;
+    clear: both;
+}
+.povijest h2{
+    font-size: 50px;
+}
+.povijest h3{
+    float: right;
+    font-size: 25px;
+    width: 68.5%;
+}
+.povijest p{
+    width: 68.5%;
+    font-size: 22px;
+}
+
+footer{
+    color: white;
+    height: 70px;
+    line-height: 70px;
+    clear: both;
+    text-align: center;
+    font-size: 25px;
+}

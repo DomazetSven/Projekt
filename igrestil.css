@@ -1,0 +1,126 @@
+body{
+    margin: 0 auto;
+    max-width: 1400px;
+    background-color: #255685;
+}
+h2{
+    background-color: #252685;
+    color: white;
+    padding: 10px;
+    border-radius: 20px;
+}
+h3{
+    background-color: #252685;
+    color: white;
+    border-radius: 10px;
+    padding: 10px;
+    text-align: center;
+    font-size: 40px;
+    clear: both;
+    margin-top: 180px;
+}
+h4{
+    color: white;
+    font-size: 24px;
+    text-align: center;
+    margin: 0px;
+}
+p{
+    text-decoration: underline;
+    text-align: center;
+    color: white;
+    font-size: 24px;
+    margin: 15px;
+}
+li p{
+    text-decoration: none;
+    text-align: left;
+    font-size: 18px;
+}
+header{
+    background-color: #F7F4E1;
+    width: 1400px;
+    height: 140px;
+    border-radius: 30px;
+    position: fixed;
+    z-index: 1;
+}
+header img{
+    float: left;
+    background-color: #F7F4E1;
+    width: 80px;
+    margin: 20px 30px 20px 30px;
+}
+header h1{
+    float: left;
+    font-size: 90px;
+    background-color: #F7F4E1;
+    margin: 20px;
+}
+header a:link{
+    float: right;
+    margin: 50px 10px 50px 10px;
+    padding: 10px;
+    font-size: 30px;
+    background-color: #30ad6d;
+    color: orange;
+    text-decoration: none;
+    border-radius: 10px;
+}
+header a:visited{
+    float: right;
+    margin: 50px 10px 50px 10px;
+    padding: 10px;
+    font-size: 30px;
+    background-color: #30ad6d;
+    color: purple;
+    text-decoration: none;
+    border-radius: 10px;
+}
+header a:hover{
+    float: right;
+    margin: 50px 10px 50px 10px;
+    font-size: 30px;
+    padding: 10px;
+    background-color: #30ad6d;
+    color: blue;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.istrazi{
+    top: -200px;
+    float: left;
+    clear: both;
+    width: 100%;
+}
+.istrazi h2{
+    font-size: 50px;
+}
+.istrazi img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 300px;
+}
+ul{
+    width: 100%;
+    margin-bottom: 100px;
+}
+li{
+    list-style: none;
+    width: 26%;
+    margin: 15px;
+    padding: 25px;
+    border-radius: 10px;
+    float: left;
+    color: white;
+    background-color: #258584;
+}
+footer{
+    color: white;
+    height: 70px;
+    line-height: 70px;
+    clear: both;
+    text-align: center;
+    font-size: 25px;
+}
